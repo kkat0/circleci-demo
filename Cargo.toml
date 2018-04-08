@@ -1,0 +1,6 @@
+[package]
+name = "rust-cidemo"
+version = "0.1.0"
+authors = ["Kei Kato <kkato978@gmail.com>"]
+
+[dependencies]
